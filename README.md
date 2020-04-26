@@ -1,4 +1,4 @@
-# game.js
+# gua.game.js
 
 ## block
 ![image](https://github.com/guweimo/gua.game.js/blob/master/screencast/block.gif)
